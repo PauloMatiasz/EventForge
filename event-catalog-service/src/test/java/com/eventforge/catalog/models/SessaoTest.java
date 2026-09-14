@@ -11,10 +11,6 @@ import java.util.UUID;
 
 import org.junit.jupiter.api.Test;
 
-import com.eventforge.catalog.models.PeriodoSessao;
-import com.eventforge.catalog.models.Sessao;
-import com.eventforge.catalog.models.StatusSessao;
-
 class SessaoTest {
 
   @Test
